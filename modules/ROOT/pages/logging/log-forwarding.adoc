@@ -6,7 +6,8 @@ label:AuraDB-Business-Critical[]
 label:AuraDB-Virtual-Dedicated-Cloud[]
 label:AuraDS-Enterprise[]
 
-With log forwarding, you can stream logs directly to a cloud project owned by your organization, in real time. The following types of logs are available:
+With log forwarding, you can stream logs directly to a cloud project owned by your organization, in real time. 
+The following types of logs are available:
 
 * Security logs
 * Query logs
@@ -36,7 +37,9 @@ If no log forwarding process is set up, a button to do so is displayed in the ce
 
 [NOTE]
 ====
-Security is of paramount importance, and therefore the security logs are initially available for free. For query logs, a volume-based egress charge will apply. Please refer to your contract for details.
+Security is of paramount importance, and therefore the security logs are initially available at no cost. 
+For query logs, a volume-based egress charge will apply. 
+Refer to your contract for details.
 ====
 
 The complete steps for setting up log forwarding depend on the chosen cloud provider.
